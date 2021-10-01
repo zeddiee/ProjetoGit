@@ -1,2 +1,2 @@
 Projeto que estou testando no Git
-Alteração básica
+Foi feita uma atualização no projeto
